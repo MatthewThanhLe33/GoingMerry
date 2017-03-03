@@ -5,7 +5,7 @@
  */
 
 import React, { Component } from 'react';
-import MapView from 'reac-native-maps';
+import MapView from 'react-native-maps';
 import {
   AppRegistry,
   StyleSheet,
