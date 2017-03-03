@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "111244904664",
+    "firebase_url": "https://tossit-1488469893524.firebaseio.com",
+    "project_id": "tossit-1488469893524",
+    "storage_bucket": "tossit-1488469893524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111244904664:android:a30ebfaf55a29ba0",
+        "android_client_info": {
+          "package_name": "TossIt.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111244904664-0dfudgac8et7skgd4e850hcf9rkmh6kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbR1A1NJgSM-rm7WI-c5Si0K3zNC1Ovh8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
